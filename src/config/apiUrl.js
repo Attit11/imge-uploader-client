@@ -1,0 +1,1 @@
+export const apiUrl = "https://image-uploader-server-ahip.onrender.com"

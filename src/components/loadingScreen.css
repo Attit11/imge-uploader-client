@@ -1,0 +1,19 @@
+.loading-screen-container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height:141px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    
+}
+
+.progress-bar-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 341px;
+    border-radius: 8px;
+    height: 6px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
